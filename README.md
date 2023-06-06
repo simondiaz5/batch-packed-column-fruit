@@ -20,3 +20,7 @@ doi: https://doi.org/10.1109/TLA.2018.8789563
 Modeling and Simulation of a Packed Column Batch Still for Fruit Wine Distillations (2022)
 https://ieeexplore.ieee.org/document/9852444
 doi: https://doi.org/10.1109/ACCESS.2022.3197604
+
+
+SUSTAINABLE MULTI-OBJECTIVE OPTIMIZATION AND CONTROLLER STRATEGIES FOR FRUIT WINE DISTILLATION PROCESS (2023)
+on progress
