@@ -1,0 +1,27 @@
+Esta es la carpeta de trabajo durante el desarrollo de la tesis doctoral, y en específico para el paper:
+
+Modeling and Simulation of a Packed Column Batch Still for Fruit Wine Distillations (2022) https://ieeexplore.ieee.org/document/9852444 doi: https://doi.org/10.1109/ACCESS.2022.3197604
+
+
+Disculpen el desorden!
+
+
+
+Importante:
+
+1) La versión Final del calibrador del modelo con destilaciones a tasa de remoción de calor constante (conjunto de experimentos a 140, 200 y 250 W), está asociada a los archivos principales:
+ Main optimizador :  main_parameter_estimation_03d.m
+ Función costo : fcostd.m
+ Datos experimentales cargado:  destilaciones_qcte.mat
+
+2) La versión Final del calibrador del modelo con destilaciones a tasa de remoción de calor variable con escalones, está asociada a los archivos principales:
+ Main optimizador :  main_parameter_estimation_fr9.m
+ Función costo : fcost_Fr9.m
+ Datos experimentales cargado:  destilaciones_fr_step2.mat
+
+
+
+
+
+Contacto: Simón Díaz - 
+Correo: simon.diaz.quezada@gmail.com

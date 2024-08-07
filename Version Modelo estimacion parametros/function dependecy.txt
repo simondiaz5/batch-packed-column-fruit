@@ -1,0 +1,47 @@
+ODE DISTILLER
+	flujo_liquido2
+		densidad2
+		peso_molecular
+		viscosidad2
+	equil2x
+	transf_masa2
+		densidad
+		viscosidad
+		tension_superficial
+		difusividad
+		peso_molecular
+	equilibrio
+	destilado
+		densidad
+		peso_molecular
+	densidad
+
+
+///// Files dependency ///
+
+flujo_liquido2
+
+
+equil2x
+
+transf_masa2
+	densidad
+	viscosidad
+	tension_superficial
+	difusividad
+	peso_molecular
+	
+equilibrio
+
+destilado
+	densidad
+	peso_molecular
+	
+densidad		
+
+
+---------------------
+Implicit_fun
+	flujo_liquido2
+	transf_masa2
+	equilibrio
