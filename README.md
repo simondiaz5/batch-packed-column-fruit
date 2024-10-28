@@ -22,5 +22,5 @@ https://ieeexplore.ieee.org/document/9852444
 doi: https://doi.org/10.1109/ACCESS.2022.3197604
 
 
-SUSTAINABLE MULTI-OBJECTIVE OPTIMIZATION AND CONTROLLER STRATEGIES FOR FRUIT WINE DISTILLATION PROCESS (2023)
-on progress
+Model-Based Workflow For Sustainable Production Of High-Quality Spirits In Packed Column Stills (2024)
+Accepted 27.oct
